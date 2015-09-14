@@ -1,6 +1,6 @@
 # captcha_breaker_selenium
 
-Python script to perform automatically fill a captcha field in a selenium driver. 
+Python script to automatically fill a captcha field in a selenium driver. 
 
 This script uses OpenCV to pre-process and filter the captcha; It also uses tesseract as OCR engine to transform captcha in text. 
 
