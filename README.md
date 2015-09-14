@@ -27,11 +27,17 @@ Below are some example of captchas, pre-processed captcha and output text:
 
 ![output](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/output/outputa7.png)
 
+![Captcha](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/captchas/captchaa4.png)
+
+![pre-processed](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/processed/processeda4.png)
+
+![output](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/output/outputa4.png)
+
 The accurcay will depend on the type of captcha.
 
 I noticed  that it works better when the characters do not touch each other in the captcha. The current accuracy was enough for the intended use. However, to improve it, i was thinking at
 
-the following solution:
+the following solutions:
 
     1- Improve the training of the tesseract OCR engine with samples of the captchas targetted. One can find online tool to do the training of the tysseract OCR engine. 
     
