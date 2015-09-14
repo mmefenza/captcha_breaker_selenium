@@ -7,19 +7,19 @@ This script uses OpenCV to pre-process and filter the captcha; It also uses tess
 Below are some example of captchas, pre-processed captcha and output text:
 
  Captcha   | pre-processed   | output
- 
- 
-![Captcha](https://raw.github.com/mmefenza/captcha_breaker_selenium/captchas/captchaa1.png)
-![pre-processed](https://raw.github.com/mmefenza/captcha_breaker_selenium/processed/processeda1.png)
-![output](https://raw.github.com/mmefenza/captcha_breaker_selenium/output/outputa1.png)
 
-![Captcha](https://raw.github.com/mmefenza/captcha_breaker_selenium/captchas/captchaa6.png)
-![pre-processed](https://raw.github.com/mmefenza/captcha_breaker_selenium/processed/processeda6.png)
-![output](https://raw.github.com/mmefenza/captcha_breaker_selenium/output/outputa6.png)
+ 
+![Captcha](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/captchas/captchaa1.png)
+![pre-processed](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/processed/processeda1.png)
+![output](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/output/outputa1.png)
 
-![Captcha](https://raw.github.com/mmefenza/captcha_breaker_selenium/captchas/captchaa7.png)
-![pre-processed](https://raw.github.com/mmefenza/captcha_breaker_selenium/processed/processeda7.png)
-![output](https://raw.github.com/mmefenza/captcha_breaker_selenium/output/outputa7.png)
+![Captcha](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/captchas/captchaa6.png)
+![pre-processed](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/processed/processeda6.png)
+![output](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/output/outputa6.png)
+
+![Captcha](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/captchas/captchaa7.png)
+![pre-processed](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/processed/processeda7.png)
+![output](https://raw.githubusercontent.com/mmefenza/captcha_breaker_selenium/master/output/outputa7.png)
 
 
 The accurcay will depend on the type of captcha.
